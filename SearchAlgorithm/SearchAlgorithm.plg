@@ -1,0 +1,85 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: SearchAlgorithm - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "rc.exe /l 0x804 /fo"Debug/SearchAlgorithm.res" /d "_DEBUG" /d "_AFXDLL" "E:\´úÂëÁ·Ï°\SearchAlgorithm\SearchAlgorithm.rc"" 
+Creating temporary file "C:\Users\ADMINI~1\AppData\Local\Temp\RSPF693.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /FR"Debug/" /Fp"Debug/SearchAlgorithm.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"E:\´úÂëÁ·Ï°\SearchAlgorithm\Dlg_Divide_Equal.cpp"
+"E:\´úÂëÁ·Ï°\SearchAlgorithm\Dlg_NewTon.cpp"
+"E:\´úÂëÁ·Ï°\SearchAlgorithm\Dlg_Parabolic.cpp"
+"E:\´úÂëÁ·Ï°\SearchAlgorithm\GoldDlg.cpp"
+"E:\´úÂëÁ·Ï°\SearchAlgorithm\GridCtrl_src\GridCell.cpp"
+"E:\´úÂëÁ·Ï°\SearchAlgorithm\GridCtrl_src\GridCellBase.cpp"
+"E:\´úÂëÁ·Ï°\SearchAlgorithm\GridCtrl_src\GridCtrl.cpp"
+"E:\´úÂëÁ·Ï°\SearchAlgorithm\GridCtrl_src\GridDropTarget.cpp"
+"E:\´úÂëÁ·Ï°\SearchAlgorithm\GridCtrl_src\InPlaceEdit.cpp"
+"E:\´úÂëÁ·Ï°\SearchAlgorithm\MainFrm.cpp"
+"E:\´úÂëÁ·Ï°\SearchAlgorithm\SearchAlgorithm.cpp"
+"E:\´úÂëÁ·Ï°\SearchAlgorithm\SearchAlgorithmDoc.cpp"
+"E:\´úÂëÁ·Ï°\SearchAlgorithm\SearchAlgorithmView.cpp"
+"E:\´úÂëÁ·Ï°\SearchAlgorithm\GridCtrl_src\TitleTip.cpp"
+]
+Creating command line "cl.exe @C:\Users\ADMINI~1\AppData\Local\Temp\RSPF693.tmp" 
+Creating temporary file "C:\Users\ADMINI~1\AppData\Local\Temp\RSPF694.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /FR"Debug/" /Fp"Debug/SearchAlgorithm.pch" /Yc"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"E:\´úÂëÁ·Ï°\SearchAlgorithm\StdAfx.cpp"
+]
+Creating command line "cl.exe @C:\Users\ADMINI~1\AppData\Local\Temp\RSPF694.tmp" 
+Creating temporary file "C:\Users\ADMINI~1\AppData\Local\Temp\RSPF695.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/SearchAlgorithm.pdb" /debug /machine:I386 /out:"Debug/SearchAlgorithm.exe" /pdbtype:sept 
+".\Debug\Dlg_Divide_Equal.obj"
+".\Debug\Dlg_NewTon.obj"
+".\Debug\Dlg_Parabolic.obj"
+".\Debug\GoldDlg.obj"
+".\Debug\GridCell.obj"
+".\Debug\GridCellBase.obj"
+".\Debug\GridCtrl.obj"
+".\Debug\GridDropTarget.obj"
+".\Debug\InPlaceEdit.obj"
+".\Debug\MainFrm.obj"
+".\Debug\SearchAlgorithm.obj"
+".\Debug\SearchAlgorithmDoc.obj"
+".\Debug\SearchAlgorithmView.obj"
+".\Debug\StdAfx.obj"
+".\Debug\TitleTip.obj"
+".\Debug\SearchAlgorithm.res"
+]
+Creating command line "link.exe @C:\Users\ADMINI~1\AppData\Local\Temp\RSPF695.tmp"
+<h3>Output Window</h3>
+Compiling resources...
+Compiling...
+StdAfx.cpp
+Compiling...
+Dlg_Divide_Equal.cpp
+Dlg_NewTon.cpp
+Dlg_Parabolic.cpp
+GoldDlg.cpp
+GridCell.cpp
+GridCellBase.cpp
+GridCtrl.cpp
+GridDropTarget.cpp
+ -- CGridCtrl: No OLE drag and drop
+InPlaceEdit.cpp
+MainFrm.cpp
+SearchAlgorithm.cpp
+SearchAlgorithmDoc.cpp
+SearchAlgorithmView.cpp
+TitleTip.cpp
+Generating Code...
+Linking...
+
+
+
+<h3>Results</h3>
+SearchAlgorithm.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
